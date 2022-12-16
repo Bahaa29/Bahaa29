@@ -2,8 +2,8 @@
 - 👀 I’m interested in computer science 
 - 🌱 I’m currently learning Data Engineering 
 - 📫 Link to my portfolio "https://dapper-bag-1da.notion.site/Bahaa-Elsayed-17f5ac0d5eef45dc8f393d169c95e991"
+![image](https://user-images.githubusercontent.com/51878421/208114948-a57f2182-b9cc-47b5-8170-e71021345c69.png)
 
-![image](https://user-images.githubusercontent.com/51878421/208114673-5b544fb1-95be-43b1-abb5-891ddfa80cd7.png)
 
 <!---
 Bahaa29/Bahaa29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
